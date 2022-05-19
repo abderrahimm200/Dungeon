@@ -11,7 +11,7 @@ public class WindowManager {
 	private JFrame frame;
 	private JPanel panel;
 	
-	public static final int WIDTH = 700;
+	public static final int WIDTH = 900;
 	public static final int HEIGHT = 450;
 	
 	public WindowManager() {
